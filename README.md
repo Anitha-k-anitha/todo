@@ -1,4 +1,5 @@
 TodoApp
+
 TodoApp is a web application built with Django, HTML, and CSS that allows users to manage their tasks. Users can register,
 log in, and create, view, update, and delete their tasks.
 
